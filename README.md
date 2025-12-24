@@ -42,4 +42,3 @@
 
 
 
-## 🐍 Contribution Snake ![GitHub Contribution Snake](https://raw.githubusercontent.com/surXcode/surXcode/output/github-contribution-grid-snake.svg)
