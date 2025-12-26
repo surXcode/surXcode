@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Singh</h1>
-<h3 align="center">Python Developer</h3>
+<h3 align="center"> A passionate Data Analyst & Python Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surxcode&label=Profile%20views&color=0e75b6&style=flat" alt="surxcode" /> </p>
 
