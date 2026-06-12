@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [Pizza](https://github.com/surXcode/Pizza)
 
-- 👨‍💻 All of my projects are available at [https://surajxportfolio.netlify.app/](https://surajxportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://surajxportfolio.netlify.app/](https://surajxportfolio.netlify.app/) OR (https://surxplay-analystportfolio.netlify.app/)
 
 - 💬 Ask me about **Python and Data Science**
 
